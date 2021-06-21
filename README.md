@@ -37,5 +37,7 @@ Use this repository (repo, for short) to complete your practice for Lesson 1.
   * Write a program that asks the user a question, saves their response in a variable and then prints a response using that variable. You get to choose the topic this time! 🎉
 
 ### Submitting your Repo
-* When you have completed each
+* When you have completed each task, commit and push to GitHub. 
+* Go to the repo on GitHub and look for the green check mark (automatic testing passed.)
+  * See Canvas for more information
 
