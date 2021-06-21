@@ -1,4 +1,4 @@
-# Lesson 1 Practice
+# Lesson 1 Practice (Hello World!)
 
 Use this repository (repo, for short) to complete your practice for Lesson 1.
 
