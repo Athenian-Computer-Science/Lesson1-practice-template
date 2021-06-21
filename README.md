@@ -8,7 +8,7 @@ Use this repository (repo, for short) to complete your practice for Lesson 1.
   * Use this for practice during the Edpuzzle video. You can use the main window or the Python Console (see button at the bottom of the PyCharm window)
 
 #### Parsons Puzzles  
-* [Parsons Puzzle #1: print](🥉tps://athenian-computer-science.github.io/hosting-parsons-on-github-template/parsons/print.html) 🥉
+* [Parsons Puzzle #1: print](https://athenian-computer-science.github.io/hosting-parsons-on-github-template/parsons/print.html) 🥉
 * [Parsons Puzzle #2: input & print](https://athenian-computer-science.github.io/hosting-parsons-on-github-template/parsons/input-print.html)  🥉
 
 #### Fix & Write Code  
