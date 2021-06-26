@@ -3,7 +3,7 @@
     {
       "name": "Fix Code 1",
       "setup": "",
-      "run": "python3 fix_code_1.py",
+      "run": "python3 src/fix_code_1.py",
       "input": "",
       "output": "Welcome to CompSci!",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Fix Code 2",
       "setup": "",
-      "run": "python3 fix_code_2.py",
+      "run": "python3 src/fix_code_2.py",
       "input": "",
       "output": "My favorite class is geometry!",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "Fix Code 3",
       "setup": "",
-      "run": "python3 fix_code_3.py",
+      "run": "python3 src/fix_code_3.py",
       "input": "candy cap mushroom",
       "output": "I like candy cap mushroom too!",
       "comparison": "included",
