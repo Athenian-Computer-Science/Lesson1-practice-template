@@ -4,7 +4,7 @@ Use this repository (repo, for short) to complete your practice for Lesson 1.
 
 ## Complete the following:
 #### Edpuzzle
-* [Edpuzzle practice](edpuzzle_practice.py) 🥉
+* [Edpuzzle practice](src/edpuzzle_practice.py) 🥉
   * Use this for practice during the Edpuzzle video. You can use the main window or the Python Console (see button at the bottom of the PyCharm window)
 
 #### Parsons Puzzles  
