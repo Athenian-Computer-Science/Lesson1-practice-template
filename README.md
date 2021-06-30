@@ -41,3 +41,7 @@ Use this repository (repo, for short) to complete your practice for Lesson 1.
 * Go to the repo on GitHub and look for the green check mark (automatic testing passed.)
   * See Canvas for more information
 
+
+**Attribution:**
+
+Thank you to Bianca Ruiz [@RuiztheRuler](https://github.com/RuizTheRuler) for providing a great starting place for automating feedback!
