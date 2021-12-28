@@ -23,7 +23,7 @@ Use this repository (repo, for short) to complete your practice for Lesson 1.
     * Your print statement should use a formatted string (f-string) to insert the value of the variable into the sentence.
       * Expected output: `My favorite class is geometry!`
     * GitHub will run a test on this when you submit it.
-* [Write Code #2](src/write_code_2.py) 🚁
+* [Write Code #2](src/write_code_2.py) 🚀
   * Write a short program that assigns one of your hobbies to the variable `hobby` and prints a response. Be sure to use an f-string in your print statement to insert the value of the variable into your response.
 * [Fix the Code #3](src/fix_code_3.py) 🪁
   * This program should collect the user's favorite flavor of ice cream. The computer should then respond that it likes that flavor too. Unfortunately, the program doesn't work yet. Please fix it so it works correctly.
